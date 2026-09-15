@@ -17,3 +17,5 @@ To train the anomaly detector using the provided dataset:
 (if Isolation Forest is selected, the detector must load the corresponding pre-trained model)
 To run real-time anomaly detection:
 5. runtime_detector.py
+
+Thank you, and feel free to check out any other projects in my profile!
